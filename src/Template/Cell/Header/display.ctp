@@ -92,7 +92,7 @@
                                                 'Diseño y Multimedia',
                                                 [
                                                     'controller' => 'portfolio',
-                                                    'action' => 'ux'
+                                                    'action' => 'diseno'
                                                 ] //Clase si es que tiene
                                             ); ?></li>
                                     </ul>
@@ -109,9 +109,9 @@
                                             ); ?></li>
 
                                 <li> <?php echo $this->Html->link(
-                                                'Soluciones',
+                                                'Contactanos',
                                                 [
-                                                    'controller' => 'soluciones',
+                                                    'controller' => 'contactanos',
                                                     'action' => 'vista'
                                                 ],
                                                 [

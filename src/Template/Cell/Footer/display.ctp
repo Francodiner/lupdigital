@@ -27,7 +27,7 @@
                         </h4>
 
                         <div class="footer__content text-base text-light mt-16 sm:mt-12">
-                            <p>Studio Stukram 1910 Gateway Road, Portland, Oregon 97230</p>
+                            <p>Studio Lup 1910 Gateway Road, Portland, Oregon 97230</p>
                             <a href="mailto:info@lupdigital.com" class="mt-8">info@lupdigital.com</a>
                             <br>
                             <a href="https://wa.me/5211234567890?text=Me%20gustaría%20%20un%20precio%20del%20coche" class="mt-8">+54 111 111 1111</a>

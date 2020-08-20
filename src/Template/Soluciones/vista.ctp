@@ -397,9 +397,9 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        The full cycle of services to create and launch a website
-                        from scratch or redesign a live website along with the
-                        modern trends and requirements.
+                        Especializados en servicios de diseño gráfico y comunicación. 
+                        Con nuestra experiencia te ayudaremos a construir una identidad 
+                        para darle un estilo único a tu empresa.
                     </p>
 
                     <div class="text-white text-base ml-minus-4 mt-32">

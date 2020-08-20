@@ -14,14 +14,15 @@
 
                                 <div data-split="lines" data-split-page-reveal class="mr-minus-lg md:mr-0">
                                     <h1 class="masthead__title fw-700 text-white js-title">
-                                        Creciendo juntos a través de la innovación, creatividad y tecnología.
+                                        Te ayudamos a crecer a traves de la innovacion.
                                     </h1>
                                 </div>
 
                                 <div data-split="lines" data-split-page-reveal>
-                                    <p class="masthead__text text-light mt-40 md:mt-20 js-text">
-                                        Porque tu futuro esta al alcanze de tu mano. Solo le falta que te demos la nuestra.
-                                    </p>
+                                    <h6 class="masthead__text text-light mt-40 md:mt-20 js-text">
+                                        Somos una agencia de productos digitales, y estamos estamos 
+                                        para evolucionar tu start-up o servicio mediante la innovacion de diseño y tecnologia.
+                                    </h6>
                                 </div>
 
                                 <div class="masthead__button overflow-hidden mt-48 md:mt-32">
@@ -32,7 +33,7 @@
                                                     'action' => 'vista'
                                                 ],
                                                 [
-                                                    'class' => 'button -md -white text-black js-button'
+                                                    'class' => 'button -lg -white text-black js-button'
                                                 ] //Clase si es que tiene
                                             ); ?>
                                 </div>
@@ -49,7 +50,17 @@
                     <!-- row end -->
                 </div>
                 <!-- container end -->
-
+                
+                <!-- ui-element start -->
+                <div class="ui-element -bottom md:d-none js-ui">
+                <button type="button" class="ui-element__scroll js-ui-scroll-button text-white" style="font-weight:600;">
+                    Mira nuestra presentacion
+                    <i class="icon" data-feather="arrow-down"></i>
+                </button>
+                </div>
+                <!-- ui-element end -->
+            </section>
+            <!-- section end -->
                 <!-- ui-element start -->
                 <div class="ui-element -left js-ui md:d-none">
                     <div class="ui-element__social -column text-white js-bottom-left-links">
@@ -61,6 +72,28 @@
                 </div>
                 <!-- ui-element end -->
             </section>
+            <!-- section end -->
+
+            <!-- section start -->
+            <section>
+                <div class="sectionVideo h-lg">
+                    <div data-parallax="0.7" class="h-full">
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/4.jpg"></div>
+                    </div>
+
+                    <div data-cursor class="sectionVideo__btn bg-white text-black js-video-button">
+                    <div class="sectionVideo__btn__inner">
+                        <i class="icon str-width-lg" data-feather="youtube"></i>
+                    </div>
+                    </div>
+
+                    <div class="sectionVideo__wrap js-video-wrap">
+                    <div class="sectionVideo__iframe__wrap ratio ratio-16:9">
+                        <iframe src="https://www.youtube.com/embed/genAKUE0sWw" allowfullscreen></iframe>
+                    </div>
+                    </div>
+                </div>
+                </section>
             <!-- section end -->
 
             <!-- section start -->
@@ -102,7 +135,9 @@
                                                 Desarrollo Web
                                             </h3>
                                             <p class="serviceCard__text text-light mt-12">
-                                                Construimos sitios web, landing pages, E-commerces, sistemas de gestion y mucho mas. Siempre con el usuario como eje del desarrollo. Porque que la gente ignora al diseño que ignora a la gente.
+                                                Construimos sitios web, landing pages, E-commerces, sistemas de 
+                                                gestion y mucho mas. Siempre con el usuario como eje del desarrollo. 
+                                                Porque la gente ignora al diseño que ignora a la gente.
                                             </p>
                                             <div class="mt-16">
                                                 <?php echo $this->Html->link(
@@ -133,7 +168,8 @@
                                                 Marketing
                                             </h3>
                                             <p class="serviceCard__text text-light mt-12">
-                                                Posicionamos tu marca o servicio en las plataformas digitales mas utilizadas, con las ultimas tecnologias para maximizar tu exposicion.
+                                                Posicionamos tu marca o servicio en las plataformas digitales 
+                                                mas utilizadas, con las ultimas tecnologias para maximizar tu exposicion.
                                             </p>
                                             <div class="mt-16">
                                                 <?php echo $this->Html->link(
@@ -164,7 +200,9 @@
                                                 Experiencia del usuario
                                             </h3>
                                             <p class="serviceCard__text text-light mt-12">
-                                                Diseñamos tu aplicacion, producto o pagina web, con las mejores metodologias, para construir valor alrededor de tu recurso mas importante, el usuario.
+                                                Diseñamos tu aplicacion, producto o pagina web, con las 
+                                                mejores metodologias, para construir valor alrededor de 
+                                                tu recurso mas importante, el usuario.
                                             </p>
                                             <div class="mt-16">
                                             <?php echo $this->Html->link(
@@ -195,7 +233,9 @@
                                                 Diseño multimedia
                                             </h3>
                                             <p class="serviceCard__text text-light mt-12">
-                                                Diseñamos un excelente branding completo para tu servicio, desde tu logo, una publicidad hasta tu propio estilo para rockearla en cualquier lugar.
+                                                Diseñamos un servicio completo de branding para tu servicio, 
+                                                desde tu logo, una publicidad hasta tu propio estilo para 
+                                                rockearla en cualquier lugar.
                                             </p>
                                             <div class="mt-16">
                                             <?php echo $this->Html->link(
