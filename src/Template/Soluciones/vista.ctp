@@ -1,3 +1,9 @@
+<style>
+    html {
+        scroll-behavior: smooth;
+    }
+</style>
+
 <!-- section start -->
 <section class="layout-pt-lg layout-pb-lg">
     <!-- container start -->
@@ -27,7 +33,7 @@
                         <div class="serviceCard">
                             <div class="serviceCard__content">
                                 <div class="d-flex align-items-center ml-minus-4">
-                                    <div class="px-20 py-20 bg-white shadow-light rounded-full">
+                                    <div class="px-20 py-20 bg-dark-1 shadow-dark shadow-light rounded-full">
                                         <i class="size-md str-width-md text-accent" data-feather="code"></i>
                                     </div>
                                 </div>
@@ -56,7 +62,7 @@
                         <div class="serviceCard">
                             <div class="serviceCard__content">
                                 <div class="d-flex align-items-center ml-minus-4">
-                                    <div class="px-20 py-20 bg-white shadow-light rounded-full">
+                                    <div class="px-20 py-20 bg-dark-1 shadow-dark shadow-light rounded-full">
                                         <i class="size-md str-width-md text-accent" data-feather="smartphone"></i>
                                     </div>
                                 </div>
@@ -85,7 +91,7 @@
                         <div class="serviceCard">
                             <div class="serviceCard__content">
                                 <div class="d-flex align-items-center ml-minus-4">
-                                    <div class="px-20 py-20 bg-white shadow-light rounded-full">
+                                    <div class="px-20 py-20 bg-dark-1 shadow-dark shadow-light rounded-full">
                                         <i class="size-md str-width-md text-accent" data-feather="users"></i>
                                     </div>
                                 </div>
@@ -114,7 +120,7 @@
                         <div class="serviceCard">
                             <div class="serviceCard__content">
                                 <div class="d-flex align-items-center ml-minus-4">
-                                    <div class="px-20 py-20 bg-white shadow-light rounded-full">
+                                    <div class="px-20 py-20 bg-dark-1 shadow-dark shadow-light rounded-full">
                                         <i class="size-md str-width-md text-accent" data-feather="codepen"></i>
                                     </div>
                                 </div>
@@ -157,15 +163,15 @@
         <div class="row align-items-center">
             <div class="col-lg-6 md:order-2 md:mt-48">
                 <div data-parallax="0.7" class="ratio ratio-3:4">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/6.jpg"></div>
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/desarrollo.png"></div>
                 </div>
             </div>
 
             <div class="col-lg-4 offset-lg-1 col-md-10 md:order-1" id="desarrollo">
                 <div data-anim="slide-up delay-1">
                     <div class="d-flex">
-                        <div class="px-20 py-20 bg-white rounded-full d-flex align-items-center justify-content-center">
-                            <i class="size-md str-width-md text-accent" data-feather="code" ></i>
+                        <div class="px-20 py-20 bg-dark-1 shadow-dark rounded-full d-flex align-items-center justify-content-center">
+                            <i class="size-md str-width-md text-accent" data-feather="code"></i>
                         </div>
                     </div>
 
@@ -190,7 +196,7 @@
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>E-Commerces</p>
+                            <p>E-Commerce</p>
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
@@ -204,16 +210,16 @@
 
                     <div class="mt-32">
                         <?php echo $this->Html->link(
-                                                ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
-                                                [
-                                                    'controller' => 'portfolio',
-                                                    'action' => 'desarrollo'
-                                                ],
-                                                [
-                                                    'class' => 'button -icon text-lg text-white',
-                                                    'escape' => false
-                                                ]
-                                            ); ?>
+                            ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
+                            [
+                                'controller' => 'portfolio',
+                                'action' => 'desarrollo'
+                            ],
+                            [
+                                'class' => 'button -icon text-lg text-white',
+                                'escape' => false
+                            ]
+                        ); ?>
                     </div>
                 </div>
             </div>
@@ -233,7 +239,7 @@
             <div class="col-lg-4 col-md-10 md:order-1">
                 <div data-anim="slide-up delay-1">
                     <div class="d-flex">
-                        <div class="px-20 py-20 bg-white rounded-full d-flex align-items-center justify-content-center">
+                        <div class="px-20 py-20 bg-dark-1 shadow-dark rounded-full d-flex align-items-center justify-content-center">
                             <i class="size-md str-width-md text-accent" data-feather="smartphone"></i>
                         </div>
                     </div>
@@ -272,24 +278,24 @@
                     </div>
 
                     <div class="mt-32">
-                    <?php echo $this->Html->link(
-                                                ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
-                                                [
-                                                    'controller' => 'portfolio',
-                                                    'action' => 'marketing'
-                                                ],
-                                                [
-                                                    'class' => 'button -icon text-lg text-white',
-                                                    'escape' => false
-                                                ]
-                                            ); ?>
+                        <?php echo $this->Html->link(
+                            ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
+                            [
+                                'controller' => 'portfolio',
+                                'action' => 'marketing'
+                            ],
+                            [
+                                'class' => 'button -icon text-lg text-white',
+                                'escape' => false
+                            ]
+                        ); ?>
                     </div>
                 </div>
             </div>
 
             <div class="col-lg-7 offset-lg-1 md:order-2 md:mt-48">
                 <div data-parallax="0.7" class="ratio ratio-4:3">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/8.jpg"></div>
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/marketing.png"></div>
                 </div>
             </div>
         </div>
@@ -307,14 +313,14 @@
         <div class="row align-items-center">
             <div class="col-lg-6 md:order-2 md:mt-48">
                 <div data-parallax="0.7" class="ratio ratio-1:1">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/10.jpg"></div>
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/ux.png"></div>
                 </div>
             </div>
 
             <div class="col-lg-4 offset-lg-1 col-md-10 md:order-1">
                 <div data-anim="slide-up delay-1">
                     <div class="d-flex">
-                        <div class="px-20 py-20 bg-white rounded-full d-flex align-items-center justify-content-center">
+                        <div class="px-20 py-20 bg-dark-1 shadow-dark rounded-full d-flex align-items-center justify-content-center">
                             <i class="size-md str-width-md text-accent" data-feather="users"></i>
                         </div>
                     </div>
@@ -357,17 +363,17 @@
                     </div>
 
                     <div class="mt-32">
-                    <?php echo $this->Html->link(
-                                                ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
-                                                [
-                                                    'controller' => 'portfolio',
-                                                    'action' => 'ux'
-                                                ],
-                                                [
-                                                    'class' => 'button -icon text-lg text-white',
-                                                    'escape' => false
-                                                ]
-                                            ); ?>
+                        <?php echo $this->Html->link(
+                            ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
+                            [
+                                'controller' => 'portfolio',
+                                'action' => 'ux'
+                            ],
+                            [
+                                'class' => 'button -icon text-lg text-white',
+                                'escape' => false
+                            ]
+                        ); ?>
                     </div>
                 </div>
             </div>
@@ -379,7 +385,7 @@
 <!-- section end -->
 
 <!-- section start -->
-<section class="layout-pt-md layout-pb-md bg-dark-1" id="ux">
+<section class="layout-pt-md layout-pb-md bg-dark-1" id="diseno">
     <!-- container start -->
     <div class="container">
         <!-- row start -->
@@ -387,7 +393,7 @@
             <div class="col-lg-4 col-md-10 md:order-1">
                 <div data-anim="slide-up delay-1">
                     <div class="d-flex">
-                        <div class="px-20 py-20 bg-white rounded-full d-flex align-items-center justify-content-center">
+                        <div class="px-20 py-20 bg-dark-1 shadow-dark rounded-full d-flex align-items-center justify-content-center">
                             <i class="size-md str-width-md text-accent" data-feather="codepen"></i>
                         </div>
                     </div>
@@ -397,8 +403,8 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        Especializados en servicios de diseño gráfico y comunicación. 
-                        Con nuestra experiencia te ayudaremos a construir una identidad 
+                        Especializados en servicios de diseño gráfico y comunicación.
+                        Con nuestra experiencia te ayudaremos a construir una identidad
                         para darle un estilo único a tu empresa.
                     </p>
 
@@ -422,25 +428,25 @@
                     </div>
 
                     <div class="mt-32">
-                    <?php echo $this->Html->link(
-                                                ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
-                                                [
-                                                    'controller' => 'portfolio',
-                                                    'action' => 'diseno'
-                                                ],
-                                                [
-                                                    'class' => 'button -icon text-lg text-white',
-                                                    'escape' => false
-                                                ]
-                                            ); ?>
-                        
+                        <?php echo $this->Html->link(
+                            ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
+                            [
+                                'controller' => 'portfolio',
+                                'action' => 'diseno'
+                            ],
+                            [
+                                'class' => 'button -icon text-lg text-white',
+                                'escape' => false
+                            ]
+                        ); ?>
+
                     </div>
                 </div>
             </div>
 
             <div class="col-lg-7 offset-lg-1 md:order-2 md:mt-48">
                 <div data-parallax="0.7" class="ratio ratio-4:3">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/8.jpg"></div>
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/diseno.png"></div>
                 </div>
             </div>
         </div>
@@ -474,16 +480,16 @@
 
 
                 <?php echo $this->Html->link(
-                                                'Hagamosla realidad.',
-                                                [
-                                                    'controller' => 'general',
-                                                    'action' => 'contacto'
-                                                ],
-                                                [
-                                                    'class' => 'button -md -black text-white mt-32'
-                                                   
-                                                ]
-                                            ); ?>
+                    'Hagamosla realidad.',
+                    [
+                        'controller' => 'general',
+                        'action' => 'contacto'
+                    ],
+                    [
+                        'class' => 'button -md -black text-white mt-32'
+
+                    ]
+                ); ?>
             </div>
         </div>
         <!-- row end -->
