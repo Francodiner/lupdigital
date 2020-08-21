@@ -36,7 +36,7 @@
     <div class="container">
         <!-- row start -->
         <div class="row x-gap-60 y-gap-60 layout-pt-">
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
@@ -50,7 +50,7 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Diseñador UX & <br> Desarrollador Web
+                            Diseñador UX, Desarrollador Web & Analista Business Intelligence 
                         </p>
 
                         <div class="teamCard__social mt-12 text-white">
@@ -64,7 +64,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-sm-6 text-white">
+            <div class="col-lg-4 col-sm-6 text-white">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
@@ -78,7 +78,7 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Desarrollador Web/Mobile & <br> Marketing Digital
+                            Desarrollador Web/Mobile & Marketing Digital
                         </p>
 
                         <div class="teamCard__social mt-12">
@@ -92,7 +92,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
@@ -121,7 +121,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
@@ -135,7 +135,34 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Marketing & <br>Marketing Digital
+                            Marketing & Marketing Digital
+                        </p>
+
+                        <div class="teamCard__social mt-12">
+                            <div class="teamCard__social__item">
+                                <a class="text-white" href="#">
+                                    <i class="fab fa-linkedin-in"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div data-anim-wrap class="teamCard">
+                    <div class="teamCard__img">
+                        <div data-anim-child="img-right cover-dark-1 delay-2">
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/maxigod.jpeg"></div>
+                        </div>
+                    </div>
+
+                    <div data-anim-child="fade delay-8" class="teamCard__content mt-24">
+                        <h4 class="teamCard__title text-xl fw-600 text-white">
+                            Maximiliano Sanchez Guerrini
+                        </h4>
+
+                        <p class="teamCard__text capitalize mt-4 text-white">
+                            Full Stack developer, Python, Java, Musico, Diseñador Multimedia y en su tiempo libre es dios.  
                         </p>
 
                         <div class="teamCard__social mt-12">
