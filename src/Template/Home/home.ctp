@@ -86,7 +86,7 @@
 
           <div class="sectionVideo__wrap js-video-wrap">
               <div class="sectionVideo__iframe__wrap ratio ratio-16:9">
-                  <iframe src="https://www.youtube.com/embed/genAKUE0sWw" allowfullscreen></iframe>
+                  <iframe src="http://localhost/lupdigital/img/banners/final_video.mp4" allowfullscreen></iframe>
               </div>
           </div>
       </div>
@@ -272,7 +272,9 @@
 
               <div class="col-lg-6 z-1">
                   <div data-anim-child="img-right cover-dark-1 delay-2">
-                      <div class="ratio ratio-1:1" data-parallax="0.7">
+                      <div class="ratio ratio-1:1" data-parallax="0.7" style="
+    width: 90%;
+">
                           <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/banners/marketing.png">
                           </div>
                       </div>

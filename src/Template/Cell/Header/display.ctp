@@ -4,15 +4,15 @@
     <div class="header__bar">
         <div class="header__logo js-header-logo">
             <?php echo $this->Html->image("logo/lup.png", [
-                            "alt" => "Lup-Logo",
-                            'class' => 'header__logo__light',
-                            'url' => ['controller' => 'Home', 'action' => 'home'],
-                        ]); ?>
+                "alt" => "Lup-Logo",
+                'class' => 'header__logo__light',
+                'url' => ['controller' => 'Home', 'action' => 'home'],
+            ]); ?>
             <?php echo $this->Html->image("logo/lup.png", [
-                            "alt" => "Lup-Logo",
-                            'class' => 'header__logo__dark',
-                            'url' => ['controller' => 'Home', 'action' => 'home'],
-                        ]); ?>
+                "alt" => "Lup-Logo",
+                'class' => 'header__logo__dark',
+                'url' => ['controller' => 'Home', 'action' => 'home'],
+            ]); ?>
 
         </div>
 
@@ -45,22 +45,22 @@
                         <div class="navList__wrap">
                             <ul class="navList js-navList">
                                 <li> <?php echo $this->Html->link(
-                                                'Inicio',
-                                                [
-                                                    'controller' => 'home',
-                                                    'action' => 'home'
-                                                ] //Clase si es que tiene
-                                            ); ?></li>
+                                            'Inicio',
+                                            [
+                                                'controller' => 'home',
+                                                'action' => 'home'
+                                            ] //Clase si es que tiene
+                                        ); ?></li>
                                 <li> <?php echo $this->Html->link(
-                                                'Soluciones',
-                                                [
-                                                    'controller' => 'soluciones',
-                                                    'action' => 'vista'
-                                                ],
-                                                [
-                                                    'class' => 'menu-item'
-                                                ] //Clase si es que tiene
-                                            ); ?></li>
+                                            'Soluciones',
+                                            [
+                                                'controller' => 'soluciones',
+                                                'action' => 'vista'
+                                            ],
+                                            [
+                                                'class' => 'menu-item'
+                                            ] //Clase si es que tiene
+                                        ); ?></li>
 
 
                                 <li class="menu-item-has-children">
@@ -68,56 +68,56 @@
 
                                     <ul class="subnav-list">
                                         <li> <?php echo $this->Html->link(
-                                                'Desarrollo Web',
-                                                [
-                                                    'controller' => 'portfolio',
-                                                    'action' => 'desarrollo'
-                                                ] //Clase si es que tiene
-                                            ); ?></li>
+                                                    'Desarrollo Web',
+                                                    [
+                                                        'controller' => 'portfolio',
+                                                        'action' => 'desarrollo'
+                                                    ] //Clase si es que tiene
+                                                ); ?></li>
                                         <li> <?php echo $this->Html->link(
-                                                'Marketing',
-                                                [
-                                                    'controller' => 'portfolio',
-                                                    'action' => 'marketing'
-                                                ] //Clase si es que tiene
-                                            ); ?></li>
+                                                    'Marketing',
+                                                    [
+                                                        'controller' => 'portfolio',
+                                                        'action' => 'marketing'
+                                                    ] //Clase si es que tiene
+                                                ); ?></li>
                                         <li> <?php echo $this->Html->link(
-                                                'Experiencia de Usuario',
-                                                [
-                                                    'controller' => 'portfolio',
-                                                    'action' => 'ux'
-                                                ] //Clase si es que tiene
-                                            ); ?></li>
+                                                    'Experiencia de Usuario',
+                                                    [
+                                                        'controller' => 'portfolio',
+                                                        'action' => 'ux'
+                                                    ] //Clase si es que tiene
+                                                ); ?></li>
                                         <li> <?php echo $this->Html->link(
-                                                'Diseño y Multimedia',
-                                                [
-                                                    'controller' => 'portfolio',
-                                                    'action' => 'diseno'
-                                                ] //Clase si es que tiene
-                                            ); ?></li>
+                                                    'Diseño y Multimedia',
+                                                    [
+                                                        'controller' => 'portfolio',
+                                                        'action' => 'diseno'
+                                                    ] //Clase si es que tiene
+                                                ); ?></li>
                                     </ul>
                                 </li>
                                 <li> <?php echo $this->Html->link(
-                                                'Sobre Nosotros',
-                                                [
-                                                    'controller' => 'general',
-                                                    'action' => 'equipo'
-                                                ],
-                                                [
-                                                    'class' => 'menu-item'
-                                                ] //Clase si es que tiene
-                                            ); ?></li>
+                                            'Sobre Nosotros',
+                                            [
+                                                'controller' => 'general',
+                                                'action' => 'equipo'
+                                            ],
+                                            [
+                                                'class' => 'menu-item'
+                                            ] //Clase si es que tiene
+                                        ); ?></li>
 
                                 <li> <?php echo $this->Html->link(
-                                                'Contactanos',
-                                                [
-                                                    'controller' => 'contactanos',
-                                                    'action' => 'vista'
-                                                ],
-                                                [
-                                                    'class' => 'menu-item'
-                                                ] //Clase si es que tiene
-                                            ); ?></li>
+                                            'Contactanos',
+                                            [
+                                                'controller' => 'general',
+                                                'action' => 'contacto'
+                                            ],
+                                            [
+                                                'class' => 'menu-item'
+                                            ] //Clase si es que tiene
+                                        ); ?></li>
                             </ul>
                         </div>
                     </div>
@@ -143,9 +143,9 @@
                                     Contacto
                                 </h5>
                                 <div class="nav__info__content text-lg text-white mt-16">
-                                <a href="mailto:info@lupdigital.com" class="mt-8">info@lupdigital.com</a>
-                            <br>
-                            <a href="https://wa.me/5211234567890?text=Me%20gustaría%20%20un%20precio%20del%20coche" class="mt-8">+54 111 111 1111</a>
+                                    <a href="mailto:info@lupdigital.com" class="mt-8">info@lupdigital.com</a>
+                                    <br>
+                                    <a href="https://wa.me/5211234567890?text=Me%20gustaría%20%20un%20precio%20del%20coche" class="mt-8">+54 111 111 1111</a>
                                 </div>
                             </div>
                         </div>
