@@ -75,7 +75,7 @@
   <section>
       <div class="sectionVideo h-lg">
           <div data-parallax="0.7" class="h-full">
-              <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/4.jpg"></div>
+              <div data-parallax-target class="bg-image js-lazy" data-bg="img/banners/lup-home.jpg"></div>
           </div>
 
           <div data-cursor class="sectionVideo__btn bg-white text-black js-video-button">
@@ -86,7 +86,7 @@
 
           <div class="sectionVideo__wrap js-video-wrap">
               <div class="sectionVideo__iframe__wrap ratio ratio-16:9">
-                  <iframe src="http://localhost/lupdigital/img/banners/final_video.mp4" allowfullscreen></iframe>
+                  <iframe src="https://www.youtube.com/embed/kjBJY2oHu_Y" allowfullscreen></iframe>
               </div>
           </div>
       </div>
