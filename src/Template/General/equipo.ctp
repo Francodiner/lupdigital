@@ -50,7 +50,7 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Diseñador UX, Desarrollador Web & Analista Business Intelligence 
+                            Diseñador UX <br> Desarrollador Web 
                         </p>
 
                         <div class="teamCard__social mt-12 text-white">
@@ -78,7 +78,7 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Desarrollador Web/Mobile & Marketing Digital
+                            Desarrollador Web & Mobile <br> Marketing Digital
                         </p>
 
                         <div class="teamCard__social mt-12">
@@ -106,8 +106,8 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Diseñador Multimedia &
-                            <br> Mothion Graphics
+                            Diseñador Multimedia
+                            <br> Motion Graphics
                         </p>
 
                         <div class="teamCard__social mt-12">
@@ -135,7 +135,8 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Marketing & Marketing Digital
+                            Marketing Digital <br>
+                            Manejo de redes
                         </p>
 
                         <div class="teamCard__social mt-12">
@@ -162,12 +163,13 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Full Stack developer, Python, Java, Musico, Diseñador Multimedia y en su tiempo libre es dios.  
+                            Desarrollador Web & Mobile <br>
+                            Diseñador Multimedia  
                         </p>
 
                         <div class="teamCard__social mt-12">
                             <div class="teamCard__social__item">
-                                <a class="text-white" href="#">
+                                <a class="text-white" href="https://www.linkedin.com/in/maximiliano-sanchez-guerrini-23a551193/">
                                     <i class="fab fa-linkedin-in"></i>
                                 </a>
                             </div>

@@ -39,11 +39,11 @@
                                 </div>
 
                                 <h3 class="serviceCard__title text-2xl fw-500 text-white mt-40 md:mt-32">
-                                    Desarrollo Web
+                                    Desarrollo Web & App
                                 </h3>
 
                                 <p class="serviceCard__text mt-20 md:mt-12 text-white">
-                                    Construimos tu pagina, aplicacion mobile, E-Commerce, Web institucional, Landing
+                                    Construimos paginas, sistemas de gestión, aplicaciones mobile, E-Commerce, Web institucional, Landing
                                     pages y mucho
                                     mas. Utilizando las tecnologias mas modernas del mercado.
                                 </p>
@@ -68,11 +68,12 @@
                                 </div>
 
                                 <h3 class="serviceCard__title text-2xl fw-500 text-white mt-40 md:mt-32">
-                                    Marketing
+                                    Marketing Digital
                                 </h3>
 
                                 <p class="serviceCard__text mt-20 md:mt-12 text-white">
-                                    Investigamos, planificamos y catapultamos tu marca en las redes sociales mas
+                                    Creamos contenido, aumentamos tus ventas e impulsamos tu marca
+                                    en las redes sociales mas
                                     utilizadas y en la
                                     web para que generes contacto efectivo con potenciales clientes.
                                 </p>
@@ -102,7 +103,7 @@
 
                                 <p class="serviceCard__text mt-20 md:mt-12 text-white">
                                     La innovacion digital es fundamental para la competencia del futuro. Para asegurar
-                                    eso, generamos
+                                    eso, diseñamos y generamos
                                     el valor de tu producto con el usuario como eje principal.
                                 </p>
 
@@ -130,7 +131,7 @@
                                 </h3>
 
                                 <p class="serviceCard__text mt-20 md:mt-12 text-white">
-                                    Las propuestas de marketing son lo primero que el cliente ve, estas impresiones
+                                    Una buena imagen es una buena impresion, estas impresiones
                                     hacen a tu producto. Vinimos a romper todas las reglas para que la innovacion sea tu
                                     nueva forma de vida.
                                 </p>
@@ -176,50 +177,35 @@
                     </div>
 
                     <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
-                        Desarrollo Web
+                        Desarrollo Web & App
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        Construimos tu pagina, aplicacion mobile, E-Commerce, Web institucional, Landing pages y mucho
-                        mas.
-                        Utilizando las tecnologias mas modernas del mercado.
+                    Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologias. El desarrollo tecnologico es uno 
+                    pilares fundamentales para dar el paso a la modernizacion. 
                     </p>
 
                     <div class="text-white text-base ml-minus-4 mt-32">
                         <div class="d-flex align-items-center">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>Desarrollo web</p>
+                            <p>HTML & CSS</p>
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>Sistemas de gestion (CRM)</p>
+                            <p>Javascript</p>
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>E-Commerce</p>
+                            <p>PHP</p>
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>Landing pages</p>
+                            <p>React & React Native</p>
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>Migraciones de sitios</p>
+                            <p>Vue.js</p>
                         </div>
-                    </div>
-
-                    <div class="mt-32">
-                        <?php echo $this->Html->link(
-                            ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
-                            [
-                                'controller' => 'portfolio',
-                                'action' => 'desarrollo'
-                            ],
-                            [
-                                'class' => 'button -icon text-lg text-white',
-                                'escape' => false
-                            ]
-                        ); ?>
                     </div>
                 </div>
             </div>
@@ -245,13 +231,12 @@
                     </div>
 
                     <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
-                        Marketing
+                        Marketing Digital
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        Investigamos, planificamos y catapultamos tu marca en las redes sociales mas utilizadas y en la
-                        web
-                        para que generes contacto efectivo con potenciales clientes.
+                    Manejamos y potenciamos tus redes sociales para dar un impulso positivo a tu emprendimiento. Posicionamos 
+                    a tu marca para darle visibilidad de la manera mas efectiva, generando valor y creciendo organicamente. 
                     </p>
 
                     <div class="text-white text-base ml-minus-4 mt-32">
@@ -269,26 +254,12 @@
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>Community Managment</p>
+                            <p>Manejo de redes sociales</p>
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
                             <p>Email Marketing</p>
                         </div>
-                    </div>
-
-                    <div class="mt-32">
-                        <?php echo $this->Html->link(
-                            ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
-                            [
-                                'controller' => 'portfolio',
-                                'action' => 'marketing'
-                            ],
-                            [
-                                'class' => 'button -icon text-lg text-white',
-                                'escape' => false
-                            ]
-                        ); ?>
                     </div>
                 </div>
             </div>
@@ -330,9 +301,8 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        La innovacion digital es fundamental para la competencia del futuro. Para asegurar eso generamos
-                        el
-                        valor de tu marca con el usuario como eje principal.
+                        Diseñamos, mejoramos y construimos tus productos con las mejores metodologias de evaluaciones y
+                        prototipados para llevar al siguiente nivel tu experiencia online.
                     </p>
 
                     <div class="text-white text-base ml-minus-4 mt-32">
@@ -354,26 +324,8 @@
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>Investigacion de Escritorio</p>
-                        </div>
-                        <div class="d-flex align-items-center mt-4">
-                            <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
                             <p>User testing</p>
                         </div>
-                    </div>
-
-                    <div class="mt-32">
-                        <?php echo $this->Html->link(
-                            ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
-                            [
-                                'controller' => 'portfolio',
-                                'action' => 'ux'
-                            ],
-                            [
-                                'class' => 'button -icon text-lg text-white',
-                                'escape' => false
-                            ]
-                        ); ?>
                     </div>
                 </div>
             </div>
@@ -399,13 +351,13 @@
                     </div>
 
                     <h2 class="text-4xl sm:text-3xl fw-500 text-white mt-32">
-                        Diseño Multimedia
+                        Diseño Grafico & Multimedial
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        Especializados en servicios de diseño gráfico y comunicación.
-                        Con nuestra experiencia te ayudaremos a construir una identidad
-                        para darle un estilo único a tu empresa.
+                        Diseñamos una identidad unica para tu proyecto a partir de conceptos de 
+                        diseños y comunicación. Sabemos que el diseño es una parte fundamental 
+                        de tu marca.
                     </p>
 
                     <div class="text-white text-base ml-minus-4 mt-32">
@@ -423,23 +375,8 @@
                         </div>
                         <div class="d-flex align-items-center mt-4">
                             <i class="size-2xs str-width-lg text-accent mr-8" data-feather="check"></i>
-                            <p>Logotipos</p>
+                            <p>Logos</p>
                         </div>
-                    </div>
-
-                    <div class="mt-32">
-                        <?php echo $this->Html->link(
-                            ' Casos de exito <i class="icon size-xs str-width-md" data-feather="arrow-right"></i>',
-                            [
-                                'controller' => 'portfolio',
-                                'action' => 'diseno'
-                            ],
-                            [
-                                'class' => 'button -icon text-lg text-white',
-                                'escape' => false
-                            ]
-                        ); ?>
-
                     </div>
                 </div>
             </div>

@@ -20,8 +20,9 @@
 
                       <div data-split="lines" data-split-page-reveal>
                           <h6 class="masthead__text text-light mt-40 md:mt-20 js-text">
-                              Somos una agencia de productos digitales, y estamos estamos
-                              para evolucionar tu start-up o servicio mediante la innovacion de diseño y tecnologia.
+                              Somos una agencia de productos digitales, y estamos 
+                              para evolucionar tus ideas mediante la innovacion del 
+                              diseño y la tecnologia.
                           </h6>
                       </div>
 
@@ -42,7 +43,7 @@
 
               <div class="col-xl-5 offset-xl-1 col-lg-6 offset-lg-1 z-1">
                   <div data-parallax="0.7" class="masthead__img overflow-hidden h-100vh ml-minus-sm md:ml-0">
-                      <div data-parallax-target class="bg-image js-lazy js-image" data-bg="http://localhost/lupdigital/img/banners/ux-home.png"></div>
+                      <div data-parallax-target class="bg-image js-lazy js-image" data-bg="http://localhost/lupdigital/img/banners/Home.png"></div>
                       <div class="masthead__img__cover js-image-cover"></div>
                   </div>
               </div>
@@ -131,12 +132,12 @@
                                       </div>
                                   </div>
                                   <h3 class="serviceCard__title text-2xl fw-500 text-white mt-32">
-                                      Desarrollo Web
+                                    Desarrollo Web & App
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                      Construimos sitios web, landing pages, E-commerces, sistemas de
-                                      gestion y mucho mas. Siempre con el usuario como eje del desarrollo.
-                                      Porque la gente ignora al diseño que ignora a la gente.
+                                  Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologias. El desarrollo tecnologico es uno 
+                                  pilares fundamentales para dar el paso a la modernizacion. Nos encantaria hacerlo realidad.
+
                                   </p>
                                   <div class="mt-16">
                                       <?php echo $this->Html->link(
@@ -164,11 +165,11 @@
                                       </div>
                                   </div>
                                   <h3 class="serviceCard__title text-2xl fw-500 text-white mt-32">
-                                      Marketing
+                                      Marketing Digital
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                      Posicionamos tu marca o servicio en las plataformas digitales
-                                      mas utilizadas, con las ultimas tecnologias para maximizar tu exposicion.
+                                  Manejamos y potenciamos tus redes sociales para dar un impulso positivo a tu emprendimiento. Posicionamos 
+                                  a tu marca para darle visibilidad de la manera mas efectiva, generando valor y creciendo organicamente. 
                                   </p>
                                   <div class="mt-16">
                                       <?php echo $this->Html->link(
@@ -199,9 +200,8 @@
                                       Experiencia del usuario
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                      Diseñamos tu aplicacion, producto o pagina web, con las
-                                      mejores metodologias, para construir valor alrededor de
-                                      tu recurso mas importante, el usuario.
+                                  Diseñamos, mejoramos y construimos tus productos con las mejores metodologias de evaluaciones y
+                                  prototipados para llevar al siguiente nivel tu experiencia online.
                                   </p>
                                   <div class="mt-16">
                                       <?php echo $this->Html->link(
@@ -232,9 +232,9 @@
                                       Diseño multimedia
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                      Diseñamos un servicio completo de branding para tu servicio,
-                                      desde tu logo, una publicidad hasta tu propio estilo para
-                                      rockearla en cualquier lugar.
+                                  Diseñamos una identidad unica para tu proyecto a partir de conceptos de 
+                                  diseños y comunicación. Sabemos que el diseño es una parte fundamental 
+                                  de tu marca.
                                   </p>
                                   <div class="mt-16">
                                       <?php echo $this->Html->link(
