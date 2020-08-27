@@ -63,7 +63,7 @@
                                         ); ?></li>
 
 
-                                <li class="menu-item-has-children">
+                                <!-- <li class="menu-item-has-children">
                                     <a>Portfolio</a>
 
                                     <ul class="subnav-list">
@@ -95,7 +95,7 @@
                                                         'action' => 'diseno'
                                                     ] //Clase si es que tiene
                                                 ); ?></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li> <?php echo $this->Html->link(
                                             'Sobre Nosotros',

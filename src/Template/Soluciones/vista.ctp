@@ -446,7 +446,8 @@
 
             <div class="col-lg-7 offset-lg-1 md:order-2 md:mt-48">
                 <div data-parallax="0.7" class="ratio ratio-4:3">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/diseno.png"></div>
+                    <div> </div>
+                    
                 </div>
             </div>
         </div>
@@ -459,7 +460,7 @@
 
 <!-- section start -->
 <section data-parallax="0.7" class="layout-pt-lg layout-pb-lg">
-    <div data-parallax-target class="overlay-white-md bg-image js-lazy" data-bg="img/backgrounds/2.jpg"></div>
+    <div data-parallax-target class="overlay-white-md bg-image js-lazy" data-bg="http://localhost/  lupdigital/webroot/img/banners/marble-liquid.jpg"></div>
 
     <!-- container start -->
     <div class="container z-5">

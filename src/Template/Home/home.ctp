@@ -86,7 +86,7 @@
 
           <div class="sectionVideo__wrap js-video-wrap">
               <div class="sectionVideo__iframe__wrap ratio ratio-16:9">
-                  <iframe src="https://www.youtube.com/embed/kjBJY2oHu_Y" allowfullscreen></iframe>
+                  <iframe src="https://www.youtube.com/embed/EWkZWHmywHs" allowfullscreen></iframe>
               </div>
           </div>
       </div>
@@ -109,9 +109,11 @@
                           Nuestra experiencia.
                       </h2>
                       <br>
+                      <h5>
                       <p class="sectionHeading__subtitle -light">
                           Desarrollamos Soluciones creativas para pequeñas y grandes marcas, creamos productos autenticos, identidades y mucho mas.
                       </p>
+                      </h5>
                   </div>
               </div>
 
