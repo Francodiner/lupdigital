@@ -43,7 +43,7 @@
 
               <div class="col-xl-5 offset-xl-1 col-lg-6 offset-lg-1 z-1">
                   <div data-parallax="0.7" class="masthead__img overflow-hidden h-100vh ml-minus-sm md:ml-0">
-                      <div data-parallax-target class="bg-image js-lazy js-image" data-bg="http://localhost/lupdigital/img/banners/Home.png"></div>
+                      <div data-parallax-target class="bg-image js-lazy js-image" data-bg="http://localhost/lupdigital/img/banners/Home1.png"></div>
                       <div class="masthead__img__cover js-image-cover"></div>
                   </div>
               </div>
@@ -277,7 +277,7 @@
                       <div class="ratio ratio-1:1" data-parallax="0.7" style="
     width: 90%;
 ">
-                          <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/banners/marketing.png">
+                          <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/banners/Home2.png">
                           </div>
                       </div>
                   </div>
