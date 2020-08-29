@@ -163,8 +163,8 @@
         <!-- row start -->
         <div class="row align-items-center">
             <div class="col-lg-6 md:order-2 md:mt-48">
-                <div data-parallax="0.7" class="ratio ratio-3:4">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/desarrollo.png"></div>
+                <div data-parallax="0.9" class="ratio ratio-3:4">
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/SolucionesDesarrollo.png"></div>
                 </div>
             </div>
 
@@ -181,8 +181,8 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                    Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologias. El desarrollo tecnologico es uno 
-                    pilares fundamentales para dar el paso a la modernizacion. 
+                        Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologias. El desarrollo tecnologico es uno
+                        pilares fundamentales para dar el paso a la modernizacion.
                     </p>
 
                     <div class="text-white text-base ml-minus-4 mt-32">
@@ -235,8 +235,8 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                    Manejamos y potenciamos tus redes sociales para dar un impulso positivo a tu emprendimiento. Posicionamos 
-                    a tu marca para darle visibilidad de la manera mas efectiva, generando valor y creciendo organicamente. 
+                        Manejamos y potenciamos tus redes sociales para dar un impulso positivo a tu emprendimiento. Posicionamos
+                        a tu marca para darle visibilidad de la manera mas efectiva, generando valor y creciendo organicamente.
                     </p>
 
                     <div class="text-white text-base ml-minus-4 mt-32">
@@ -265,8 +265,8 @@
             </div>
 
             <div class="col-lg-7 offset-lg-1 md:order-2 md:mt-48">
-                <div data-parallax="0.7" class="ratio ratio-4:3">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/marketing.png"></div>
+                <div data-parallax="0.9" class="ratio ratio-4:3">
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/Solucionesmarketing.png"></div>
                 </div>
             </div>
         </div>
@@ -283,8 +283,8 @@
         <!-- row start -->
         <div class="row align-items-center">
             <div class="col-lg-6 md:order-2 md:mt-48">
-                <div data-parallax="0.7" class="ratio ratio-1:1">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/ux.png"></div>
+                <div data-parallax="0.9" class="ratio ratio-1:1">
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/Solucionesux.png"></div>
                 </div>
             </div>
 
@@ -355,8 +355,8 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        Diseñamos una identidad unica para tu proyecto a partir de conceptos de 
-                        diseños y comunicación. Sabemos que el diseño es una parte fundamental 
+                        Diseñamos una identidad unica para tu proyecto a partir de conceptos de
+                        diseños y comunicación. Sabemos que el diseño es una parte fundamental
                         de tu marca.
                     </p>
 
@@ -380,23 +380,19 @@
                     </div>
                 </div>
             </div>
-
-            <div class="col-lg-7 offset-lg-1 md:order-2 md:mt-48">
-                <div data-parallax="0.7" class="ratio ratio-4:3">
-                    <div> </div>
-                    
+            <div class="col-lg-6 md:order-2 md:mt-48">
+                <div data-parallax="0.9" class="ratio ratio-1:1">
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/Solucionesdiseno.png"></div>
                 </div>
             </div>
         </div>
-        <!-- row start -->
     </div>
-    <!-- container start -->
 </section>
 <!-- section end -->
 
 
 <!-- section start -->
-<section data-parallax="0.7" class="layout-pt-lg layout-pb-lg">
+<section data-parallax="0.9" class="layout-pt-lg layout-pb-lg">
     <div data-parallax-target class="overlay-white-md bg-image js-lazy" data-bg="http://localhost/  lupdigital/webroot/img/banners/marble-liquid.jpg"></div>
 
     <!-- container start -->

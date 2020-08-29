@@ -20,8 +20,8 @@
 
                       <div data-split="lines" data-split-page-reveal>
                           <h6 class="masthead__text text-light mt-40 md:mt-20 js-text">
-                              Somos una agencia de productos digitales, y estamos 
-                              para evolucionar tus ideas mediante la innovacion del 
+                              Somos una agencia de productos digitales, y estamos
+                              para evolucionar tus ideas mediante la innovacion del
                               diseño y la tecnologia.
                           </h6>
                       </div>
@@ -42,8 +42,8 @@
               </div>
 
               <div class="col-xl-5 offset-xl-1 col-lg-6 offset-lg-1 z-1">
-                  <div data-parallax="0.7" class="masthead__img overflow-hidden h-100vh ml-minus-sm md:ml-0">
-                      <div data-parallax-target class="bg-image js-lazy js-image" data-bg="http://localhost/lupdigital/img/banners/Home1.png"></div>
+                  <div data-parallax="0.8" class="masthead__img overflow-hidden h-100vh ml-minus-sm md:ml-0">
+                      <div data-parallax-target class="bg-image js-lazy js-image" data-bg="http://localhost/lupdigital/img/banners/home1.png"></div>
                       <div class="masthead__img__cover js-image-cover"></div>
                   </div>
               </div>
@@ -75,7 +75,7 @@
   <!-- section start -->
   <section>
       <div class="sectionVideo h-lg">
-          <div data-parallax="0.7" class="h-full">
+          <div data-parallax="0.9" class="h-full">
               <div data-parallax-target class="bg-image js-lazy" data-bg="img/banners/lup-home.jpg"></div>
           </div>
 
@@ -111,9 +111,9 @@
                       </h2>
                       <br>
                       <h5>
-                      <p class="sectionHeading__subtitle -light">
-                          Desarrollamos Soluciones creativas para pequeñas y grandes marcas, creamos productos autenticos, identidades y mucho mas.
-                      </p>
+                          <p class="sectionHeading__subtitle -light">
+                              Desarrollamos Soluciones creativas para pequeñas y grandes marcas, creamos productos autenticos, identidades y mucho mas.
+                          </p>
                       </h5>
                   </div>
               </div>
@@ -132,11 +132,11 @@
                                       </div>
                                   </div>
                                   <h3 class="serviceCard__title text-2xl fw-500 text-white mt-32">
-                                    Desarrollo Web & App
+                                      Desarrollo Web & App
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                  Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologias. El desarrollo tecnologico es uno 
-                                  pilares fundamentales para dar el paso a la modernizacion. Nos encantaria hacerlo realidad.
+                                      Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologias. El desarrollo tecnologico es uno
+                                      pilares fundamentales para dar el paso a la modernizacion. Nos encantaria hacerlo realidad.
 
                                   </p>
                                   <div class="mt-16">
@@ -168,8 +168,8 @@
                                       Marketing Digital
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                  Manejamos y potenciamos tus redes sociales para dar un impulso positivo a tu emprendimiento. Posicionamos 
-                                  a tu marca para darle visibilidad de la manera mas efectiva, generando valor y creciendo organicamente. 
+                                      Manejamos y potenciamos tus redes sociales para dar un impulso positivo a tu emprendimiento. Posicionamos
+                                      a tu marca para darle visibilidad de la manera mas efectiva, generando valor y creciendo organicamente.
                                   </p>
                                   <div class="mt-16">
                                       <?php echo $this->Html->link(
@@ -200,8 +200,8 @@
                                       Experiencia del usuario
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                  Diseñamos, mejoramos y construimos tus productos con las mejores metodologias de evaluaciones y
-                                  prototipados para llevar al siguiente nivel tu experiencia online.
+                                      Diseñamos, mejoramos y construimos tus productos con las mejores metodologias de evaluaciones y
+                                      prototipados para llevar al siguiente nivel tu experiencia online.
                                   </p>
                                   <div class="mt-16">
                                       <?php echo $this->Html->link(
@@ -232,9 +232,9 @@
                                       Diseño multimedia
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                  Diseñamos una identidad unica para tu proyecto a partir de conceptos de 
-                                  diseños y comunicación. Sabemos que el diseño es una parte fundamental 
-                                  de tu marca.
+                                      Diseñamos una identidad unica para tu proyecto a partir de conceptos de
+                                      diseños y comunicación. Sabemos que el diseño es una parte fundamental
+                                      de tu marca.
                                   </p>
                                   <div class="mt-16">
                                       <?php echo $this->Html->link(
@@ -274,10 +274,8 @@
 
               <div class="col-lg-6 z-1">
                   <div data-anim-child="img-right cover-dark-1 delay-2">
-                      <div class="ratio ratio-1:1" data-parallax="0.7" style="
-    width: 90%;
-">
-                          <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/banners/Home2.png">
+                      <div class="ratio ratio-1:1" data-parallax="0.9" style="width: 90%;">
+                          <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/banners/home2.png">
                           </div>
                       </div>
                   </div>
