@@ -394,7 +394,7 @@
 
 <!-- section start -->
 <section data-parallax="0.9" class="layout-pt-lg layout-pb-lg">
-    <div data-parallax-target class="overlay-white-md bg-image js-lazy" data-bg="http://localhost/  lupdigital/webroot/img/banners/marble-liquid.jpg"></div>
+    <div data-parallax-target class="overlay-white-md bg-image js-lazy" data-bg="http://localhost/lupdigital/webroot/img/banners/marble-liquid.jpg"></div>
 
     <!-- container start -->
     <div class="container z-5">
