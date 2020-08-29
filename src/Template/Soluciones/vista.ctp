@@ -380,9 +380,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 md:order-2 md:mt-48">
-                <div data-parallax="0.9" class="ratio ratio-1:1">
-                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/Solucionesdiseno.png"></div>
+         
+            <div class="col-lg-7 offset-lg-1 md:order-2 md:mt-48">
+                <div data-parallax="0.9" class="ratio ratio-4:3">
+                    <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/soluciones/SolucionesDiseno.png"></div>
                 </div>
             </div>
         </div>
