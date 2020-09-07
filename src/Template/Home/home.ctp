@@ -42,7 +42,7 @@
               </div>
 
               <div class="col-xl-5 offset-xl-1 col-lg-6 offset-lg-1 z-1">
-                  <div data-parallax="0.8" class="masthead__img overflow-hidden h-100vh ml-minus-sm md:ml-0">
+                  <div data-parallax="1" class="masthead__img overflow-hidden h-100vh ml-minus-sm md:ml-0">
                       <div data-parallax-target class="bg-image js-lazy js-image" data-bg="http://localhost/lupdigital/img/banners/home1.png"></div>
                       <div class="masthead__img__cover js-image-cover"></div>
                   </div>
@@ -274,7 +274,7 @@
 
               <div class="col-lg-6 z-1">
                   <div data-anim-child="img-right cover-dark-1 delay-2">
-                      <div class="ratio ratio-1:1" data-parallax="0.9" style="width: 90%;">
+                      <div class="ratio ratio-1:1" data-parallax="1" style="width: 90%;">
                           <div data-parallax-target class="bg-image js-lazy" data-bg="http://localhost/lupdigital/img/banners/home2.png">
                           </div>
                       </div>
