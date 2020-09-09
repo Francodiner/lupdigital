@@ -27,10 +27,8 @@
                         </h4>
 
                         <div class="footer__content text-base text-light mt-16 sm:mt-12">
-                            <p>Studio Lup 1910 Gateway Road, Portland, Oregon 97230</p>
-                            <a href="mailto:info@lupdigital.com" class="mt-8">info@lupdigital.com</a>
-                            <br>
-                            <a href="https://wa.me/5211234567890?text=Me%20gustaría%20%20un%20precio%20del%20coche" class="mt-8">+54 111 111 1111</a>
+                            <p>Buenos Aires, Argentina</p>
+                            <a href="mailto:info@lupdigital.com" class="mt-8">info@lupdigital.com</a> 
                         </div>
                     </div>
 
@@ -88,10 +86,8 @@
                         <div class="social -bordered mt-16 sm:mt-12">
                             <a class="social__item text-white border-light" target="_blank"
                                 href="https://www.instagram.com/lup.digital/"><i class="fab fa-instagram"></i></a>
-                            <a class="social__item text-white border-light" target="_blank" href="#"><i
+                            <a class="social__item text-white border-light" target="_blank" href="https://www.facebook.com/Lup-digital-103352521487143/"><i
                                     class="fab fa-facebook"></i></a>
-                            <a class="social__item text-white border-light" target="_blank" href="#"><i
-                                    class="fab fa-behance"></i></a>
                             <a class="social__item text-white border-light" target="_blank"
                                 href="https://www.linkedin.com/company/lupdigital/"><i class="fab fa-linkedin"></i></a>
                         </div>

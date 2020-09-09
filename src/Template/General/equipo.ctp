@@ -6,19 +6,6 @@
 
 <!-- section start -->
 <section data-anim-wrap class="layout-mt-headerBar h-md md:h-70vh">
-    <div data-anim-child="img-right cover-white delay-2" class="bg-fill-image">
-        <div data-parallax="0.7" class="h-full overlay-black-sm">
-            <div data-parallax-target class="bg-image js-lazy" data-bg="img/backgrounds/10.jpg"></div>
-        </div>
-    </div>
-
-    
-                    
-
-
-
-
-
     <!-- container start -->
     <div class="container h-full">
         <!-- row start -->
@@ -132,7 +119,7 @@
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/guido-xd.jpg"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/guido.png"></div>
                         </div>
                     </div>
 
@@ -160,7 +147,7 @@
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/maxigod.jpeg"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/maxi.png"></div>
                         </div>
                     </div>
 
@@ -216,3 +203,4 @@
     <!-- container end -->
 </section>
 <!-- section end -->
+

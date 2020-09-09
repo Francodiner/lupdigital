@@ -1,3 +1,14 @@
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177340854-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177340854-1');
+</script>
+
+  
   <!-- section start -->
   <section class="masthead -type-4 js-masthead-type-4">
       <!-- container start -->
@@ -14,15 +25,15 @@
 
                       <div data-split="lines" data-split-page-reveal class="mr-minus-lg md:mr-0">
                           <h1 class="masthead__title fw-700 text-white js-title">
-                              Te ayudamos a crecer a traves de la innovacion.
+                              Te ayudamos a crecer a través de la innovación.
                           </h1>
                       </div>
 
                       <div data-split="lines" data-split-page-reveal>
                           <h6 class="masthead__text text-light mt-40 md:mt-20 js-text">
                               Somos una agencia de productos digitales, y estamos
-                              para evolucionar tus ideas mediante la innovacion del
-                              diseño y la tecnologia.
+                              para evolucionar tus ideas mediante la innovación del
+                              diseño y la tecnología.
                           </h6>
                       </div>
 
@@ -62,10 +73,9 @@
   <!-- ui-element start -->
   <div class="ui-element -left js-ui md:d-none">
       <div class="ui-element__social -column text-white js-bottom-left-links">
-          <a href="#"><i class="fab fa-instagram"></i></a>
-          <a href="#"><i class="fab fa-facebook"></i></a>
-          <a href="#"><i class="fab fa-behance"></i></a>
-          <a href="#"><i class="fab fa-linkedin"></i></a>
+          <a target="_blank" href="https://www.instagram.com/lup.digital/"><i class="fab fa-instagram"></i></a>
+          <a target="_blank" href="https://www.facebook.com/Lup-digital-103352521487143/"><i class="fab fa-facebook"></i></a>
+          <a target="_blank" href="https://www.linkedin.com/company/lupdigital/"><i class="fab fa-linkedin"></i></a>
       </div>
   </div>
   <!-- ui-element end -->
@@ -73,13 +83,17 @@
   <!-- section end -->
 
   <!-- section start -->
-  <section>
+  <section >
       <div class="sectionVideo h-lg">
-          <div data-parallax="0.9" class="h-full">
-              <div data-parallax-target class="bg-image js-lazy" data-bg="img/banners/lup-home.jpg"></div>
+          <div data-parallax="0.9" class="h-full pc-vista">
+              <div class="bg-image js-lazy" data-bg="img/banners/lup-muestra.jpg"></div>
           </div>
 
-          <div data-cursor class="sectionVideo__btn bg-white text-black js-video-button">
+          <div data-parallax="0.9" class="h-full mobile-vista">
+              <div class="bg-image js-lazy" data-bg="img/banners/lup-muestra-mobile.jpg"></div>
+          </div>
+
+          <div data-cursor class="sectionVideo__btn bg-white text-black js-video-button" style="margin-top: 150px;">
               <div class="sectionVideo__btn__inner">
                   <i class="icon str-width-lg" data-feather="youtube"></i>
               </div>
@@ -87,7 +101,7 @@
 
           <div class="sectionVideo__wrap js-video-wrap">
               <div class="sectionVideo__iframe__wrap ratio ratio-16:9">
-                  <iframe src="https://www.youtube.com/embed/EWkZWHmywHs" allowfullscreen></iframe>
+                  <iframe src="https://www.youtube.com/embed/s_r2CTe2xww" allowfullscreen></iframe>
               </div>
           </div>
       </div>
@@ -112,7 +126,7 @@
                       <br>
                       <h5>
                           <p class="sectionHeading__subtitle -light">
-                              Desarrollamos Soluciones creativas para pequeñas y grandes marcas, creamos productos autenticos, identidades y mucho mas.
+                              Desarrollamos soluciones creativas para pequeñas y grandes marcas, creamos productos auténticos, identidades y mucho mas.
                           </p>
                       </h5>
                   </div>
@@ -135,8 +149,8 @@
                                       Desarrollo Web & App
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                      Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologias. El desarrollo tecnologico es uno
-                                      pilares fundamentales para dar el paso a la modernizacion. Nos encantaria hacerlo realidad.
+                                      Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologías. El desarrollo tecnológico es uno
+                                      pilares fundamentales para dar el paso a la modernización. Nos encantaría hacerlo realidad.
 
                                   </p>
                                   <div class="mt-16">
@@ -200,7 +214,7 @@
                                       Experiencia del usuario
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                      Diseñamos, mejoramos y construimos tus productos con las mejores metodologias de evaluaciones y
+                                      Diseñamos, mejoramos y construimos tus productos con las mejores metodologías de evaluaciones y
                                       prototipados para llevar al siguiente nivel tu experiencia online.
                                   </p>
                                   <div class="mt-16">
@@ -232,7 +246,7 @@
                                       Diseño multimedia
                                   </h3>
                                   <p class="serviceCard__text text-light mt-12">
-                                      Diseñamos una identidad unica para tu proyecto a partir de conceptos de
+                                      Diseñamos una identidad única para tu proyecto a partir de conceptos de
                                       diseños y comunicación. Sabemos que el diseño es una parte fundamental
                                       de tu marca.
                                   </p>
@@ -264,9 +278,10 @@
   </section>
   <!-- section end -->
 
+<div >
 
   <!-- section start -->
-  <section class="layout-pt-md layout-pb-md">
+  <section class="layout-pt-md layout-pb-md ">
       <!-- container start -->
       <div class="container-fluid px-0">
           <!-- row start -->
@@ -293,13 +308,14 @@
                           <h2 class="sectionHeading__title leading-sm text-white mt-48 md:mt-24">
                               Desarrollando experiencias digitales.
                           </h2>
+                          
                       </div>
-                      <div data-anim-child="slide-up delay-11">
+                      <div data-anim-child="slide-up delay-10" class="ml-minus-lg mr-minus-col-1 md:ml-0 md:mr-0">
                           <p class="text-light mt-56 lg:mt-40 md:mt-20">
-                              Llevamos juntos tus ideas al siguiente nivel, con las ultimas tecnologias y las mejores metodologias.
+                              Llevamos juntos tus ideas al siguiente nivel, con las ultimas tecnologías y las mejores metodologías.
                           </p>
                       </div>
-                      <div data-anim-child="slide-up delay-12">
+                      <div data-anim-child="slide-up delay-9" style="padding-bottom:10px">
                           <?php echo $this->Html->link(
                                 'Contactanos',
                                 [
@@ -307,7 +323,7 @@
                                     'action' => 'contacto'
                                 ],
                                 [
-                                    'class' => 'button -md -outline-white text-white mt-56 lg:mt-48 md:mt-32'
+                                    'class' => 'button -md -outline-white text-white mt-56 lg:mt-48 md:mt-30'
                                 ] //Clase si es que tiene
                             ); ?>
                       </div>

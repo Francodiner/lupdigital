@@ -45,7 +45,7 @@
                                 <p class="serviceCard__text mt-20 md:mt-12 text-white">
                                     Construimos paginas, sistemas de gestión, aplicaciones mobile, E-Commerce, Web institucional, Landing
                                     pages y mucho
-                                    mas. Utilizando las tecnologias mas modernas del mercado.
+                                    mas. Utilizando las tecnologías mas modernas del mercado.
                                 </p>
 
                                 <div class="mt-24 md:mt-16">
@@ -102,7 +102,7 @@
                                 </h3>
 
                                 <p class="serviceCard__text mt-20 md:mt-12 text-white">
-                                    La innovacion digital es fundamental para la competencia del futuro. Para asegurar
+                                    La innovación digital es fundamental para la competencia del futuro. Para asegurar
                                     eso, diseñamos y generamos
                                     el valor de tu producto con el usuario como eje principal.
                                 </p>
@@ -131,8 +131,8 @@
                                 </h3>
 
                                 <p class="serviceCard__text mt-20 md:mt-12 text-white">
-                                    Una buena imagen es una buena impresion, estas impresiones
-                                    hacen a tu producto. Vinimos a romper todas las reglas para que la innovacion sea tu
+                                    Una buena imagen es una buena impresión, estas impresiones
+                                    hacen a tu producto. Vinimos a romper todas las reglas para que la innovación sea tu
                                     nueva forma de vida.
                                 </p>
 
@@ -181,8 +181,8 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologias. El desarrollo tecnologico es uno
-                        pilares fundamentales para dar el paso a la modernizacion.
+                        Digitalizamos tus proyectos y los adaptamos a las nuevas tecnologías. El desarrollo tecnológico es uno
+                        pilares fundamentales para dar el paso a la modernización.
                     </p>
 
                     <div class="text-white text-base ml-minus-4 mt-32">
@@ -301,7 +301,7 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        Diseñamos, mejoramos y construimos tus productos con las mejores metodologias de evaluaciones y
+                        Diseñamos, mejoramos y construimos tus productos con las mejores metodologías de evaluaciones y
                         prototipados para llevar al siguiente nivel tu experiencia online.
                     </p>
 
@@ -355,7 +355,7 @@
                     </h2>
 
                     <p class="text-lg fw-300 text-white mt-24">
-                        Diseñamos una identidad unica para tu proyecto a partir de conceptos de
+                        Diseñamos una identidad única para tu proyecto a partir de conceptos de
                         diseños y comunicación. Sabemos que el diseño es una parte fundamental
                         de tu marca.
                     </p>

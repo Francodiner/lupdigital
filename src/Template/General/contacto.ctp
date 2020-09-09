@@ -59,26 +59,8 @@
 
                   <div class="col-lg-6 text-white">
                     <label class="js-input-group text-white">
-                      Trabajo para la compañia
-                      <input type="text" name="phone" placeholder="Umbrella corporation"
-                        style="color: white; border-bottom-color: white;" />
-                      <span class="form__error"></span>
-                    </label>
-                  </div>
-
-                  <div class="col-lg-6 text-white">
-                    <label class="js-input-group text-white">
                       Mi mail es
-                      <input type="text" name="email" data-required placeholder="thompson@umbrellacorp.com"
-                        style="color: white; border-bottom-color: white;" />
-                      <span class="form__error"></span>
-                    </label>
-                  </div>
-
-                  <div class="col-lg-6">
-                    <label class="js-input-group text-white">
-                      Mi presupuesto es aproximadamente...
-                      <input type="text" name="subject" placeholder="0$-1.000.000.000$"
+                      <input type="email" name="email" data-required placeholder="thompson@umbrellacorp.com"
                         style="color: white; border-bottom-color: white;" />
                       <span class="form__error"></span>
                     </label>

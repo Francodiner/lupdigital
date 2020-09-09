@@ -133,7 +133,7 @@
                                 <div class="nav__info__content text-lg text-white mt-16">
                                     <a target="_blank" href="https://www.instagram.com/lup.digital/">Instagram</a>
                                     <a target="_blank" href="https://www.facebook.com/lup.digital/">Facebook</a>
-                                    <a target="_blank" href="#">Behance</a>
+                                    <a target="_blank" href="#">Youtube</a>
                                     <a target="_blank" href="https://www.linkedin.com/company/lupdigital/">Linkedin</a>
                                 </div>
                             </div>
@@ -144,8 +144,14 @@
                                 </h5>
                                 <div class="nav__info__content text-lg text-white mt-16">
                                     <a href="mailto:info@lupdigital.com" class="mt-8">info@lupdigital.com</a>
-                                    <br>
-                                    <a href="https://wa.me/5211234567890?text=Me%20gustaría%20%20un%20precio%20del%20coche" class="mt-8">+54 111 111 1111</a>
+                                </div>
+                            </div>
+                            <div class="nav__info__item js-navInfo-item">
+                                <h5 class="text-sm tracking-none fw-500">
+                                    Agencia
+                                </h5>
+                                <div class="nav__info__content text-lg text-white mt-16">
+                                    <a class="mt-8">Buenos Aires, Argentina</a>
                                 </div>
                             </div>
                         </div>
