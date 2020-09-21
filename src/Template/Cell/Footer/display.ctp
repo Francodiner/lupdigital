@@ -88,6 +88,8 @@
                                 href="https://www.instagram.com/lup.digital/"><i class="fab fa-instagram"></i></a>
                             <a class="social__item text-white border-light" target="_blank" href="https://www.facebook.com/Lup-digital-103352521487143/"><i
                                     class="fab fa-facebook"></i></a>
+                                    <a class="social__item text-white border-light" target="_blank"
+                                href="https://www.youtube.com/channel/UCDVTUoUVWgPXflBtz-0l7Ag?view_as=subscriber"><i class="fab fa-youtube"></i></a>
                             <a class="social__item text-white border-light" target="_blank"
                                 href="https://www.linkedin.com/company/lupdigital/"><i class="fab fa-linkedin"></i></a>
                         </div>

@@ -18,7 +18,7 @@
     <?= $this->Html->css('main.css') ?>
 
     <!-- Favicon -->
-    
+
     <?= $this->Html->meta(['link' => 'img/favicon/96x96.png', 'rel' => 'icon', 'type' => 'image/png', 'sizes' => '96x96']); ?>
     <?= $this->Html->meta(['link' => 'img/favicon/32x32.png', 'rel' => 'icon', 'type' => 'image/png', 'sizes' => '32x32']); ?>
     <?= $this->Html->meta(['link' => 'img/favicon/-16x16.png', 'rel' => 'icon', 'type' => 'image/png', 'sizes' => '16x16']); ?>
@@ -37,6 +37,15 @@
     <meta name="theme-color" content="#ffffff">
 
     <title>Lup.</title>
+    <meta name="keywords" content="Lup Digital, Marketing, Desarollo, Paginas web, Landing pages, Marketing digital, Desarrollo web, Sistemas de gestion, crm, Diseño, Experiencia de usuarios, Mobile app, Motion graphics, Diseño multimedia, Redes sociales, community manager, diseño de redes">
+
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Lup.">
+    <meta property="og:url" content="https://lupdigital.com/">
+    <meta property="og:description" content="Soluciones creativas - Te ayudamos a crecer a través de la innovación.">
+    <meta property="og:site_name" content="Lup. Agencia Digital">
+    <meta property="og:image:secure_url" content="https://lupdigital.com/img/logo/lup.png">
+
 </head>
 
 <body class="preloader-visible" data-barba="wrapper">
@@ -79,7 +88,7 @@
         <main class="bg-dark-1">
 
 
-             <?= $this->cell('Header'); ?>
+            <?= $this->cell('Header'); ?>
 
             <?= $this->fetch('content'); ?>
 

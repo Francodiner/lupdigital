@@ -30,11 +30,11 @@
     <div class="container">
         <!-- row start -->
         <div class="row x-gap-60 y-gap-60 layout-pt-">
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-3 col-sm-6">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/nacho.jfif"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/nacho.jfif"></div>
                         </div>
                     </div>
 
@@ -44,7 +44,7 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Diseñador UX <br> Desarrollador Web 
+                            Diseñador UX <br> Desarrollador Web
                         </p>
 
                         <div class="teamCard__social mt-12 text-white">
@@ -58,11 +58,11 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-6 text-white">
+            <div class="col-lg-3 col-sm-6 text-white">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/franco.png"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/franco.png"></div>
                         </div>
                     </div>
 
@@ -86,11 +86,11 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-3 col-sm-6">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/david.jfif"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/david.png"></div>
                         </div>
                     </div>
 
@@ -115,11 +115,11 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-3 col-sm-6">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/guido.png"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/guido.png"></div>
                         </div>
                     </div>
 
@@ -135,7 +135,7 @@
 
                         <div class="teamCard__social mt-12">
                             <div class="teamCard__social__item">
-                                <a class="text-white" href="#">
+                                <a class="text-white" href="https://www.linkedin.com/in/guido-zunino-diaz-186036167/">
                                     <i class="fab fa-linkedin-in"></i>
                                 </a>
                             </div>
@@ -143,11 +143,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-3 col-sm-6">
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="http://localhost/lupdigital/img/equipo/maxi.png"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/maxi.png"></div>
                         </div>
                     </div>
 
@@ -158,7 +158,7 @@
 
                         <p class="teamCard__text capitalize mt-4 text-white">
                             Desarrollador Web & Mobile <br>
-                            Diseñador Multimedia  
+                            Diseñador Multimedia
                         </p>
 
                         <div class="teamCard__social mt-12">
@@ -200,7 +200,7 @@
         </div>
         <!-- row end -->
     </div>
+
     <!-- container end -->
 </section>
 <!-- section end -->
-
