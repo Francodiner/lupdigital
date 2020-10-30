@@ -34,7 +34,7 @@
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/nacho.jfif"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/nacho.jpg"></div>
                         </div>
                     </div>
 
@@ -44,7 +44,7 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Diseñador UX <br> Desarrollador Web
+                            Diseñador UX <br> Desarrollador Front End
                         </p>
 
                         <div class="teamCard__social mt-12 text-white">
@@ -72,7 +72,7 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Desarrollador Web & Mobile <br> Marketing Digital
+                            Desarrollador Full Stack & Mobile <br> Marketing Digital
                         </p>
 
                         <div class="teamCard__social mt-12">
@@ -157,13 +157,40 @@
                         </h4>
 
                         <p class="teamCard__text capitalize mt-4 text-white">
-                            Desarrollador Web & Mobile <br>
+                            Desarrollador Full Stack & Mobile <br>
                             Diseñador Multimedia
                         </p>
 
                         <div class="teamCard__social mt-12">
                             <div class="teamCard__social__item">
                                 <a class="text-white" href="https://www.linkedin.com/in/maximiliano-sanchez-guerrini-23a551193/">
+                                    <i class="fab fa-linkedin-in"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div data-anim-wrap class="teamCard">
+                    <div class="teamCard__img">
+                        <div data-anim-child="img-right cover-dark-1 delay-2">
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/seba.jpg"></div>
+                        </div>
+                    </div>
+
+                    <div data-anim-child="fade delay-8" class="teamCard__content mt-24">
+                        <h4 class="teamCard__title text-xl fw-600 text-white">
+                            Sebastian Rellihan
+                        </h4>
+
+                        <p class="teamCard__text capitalize mt-4 text-white">
+                            Desarrollador Full Stack
+                        </p>
+
+                        <div class="teamCard__social mt-12">
+                            <div class="teamCard__social__item">
+                                <a class="text-white" href="https://www.linkedin.com/in/srellihan/">
                                     <i class="fab fa-linkedin-in"></i>
                                 </a>
                             </div>
