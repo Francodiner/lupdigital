@@ -34,7 +34,7 @@
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/nacho.jpg"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/nacho.png"></div>
                         </div>
                     </div>
 
@@ -175,7 +175,7 @@
                 <div data-anim-wrap class="teamCard">
                     <div class="teamCard__img">
                         <div data-anim-child="img-right cover-dark-1 delay-2">
-                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/seba.jpg"></div>
+                            <div class="bg-image ratio ratio-3:4 js-lazy" data-bg="https://lupdigital.com/img/equipo/seba.png"></div>
                         </div>
                     </div>
 
